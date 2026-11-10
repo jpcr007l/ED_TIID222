@@ -77,3 +77,11 @@ print(numeros[5])
 numeros = [10, 20, 30, 40]
 numeros.insert(____, ____)
 print(numeros)
+
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
