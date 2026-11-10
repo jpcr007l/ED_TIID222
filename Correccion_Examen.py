@@ -75,7 +75,7 @@ print(numeros[5])
 
 
 numeros = [10, 20, 30, 40]
-numeros.insert(____, ____)
+numeros.insert(2, 25)
 print(numeros)
 
 
