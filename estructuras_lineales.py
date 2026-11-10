@@ -168,3 +168,10 @@ print("Cola -> FIFO -> append() / pop(0)")
 print("Pila -> LIFO -> append() / pop()")
 print("Lista enlazada -> nodos conectados mediante referencias")
 print("\nFin de los ejemplos.")
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
