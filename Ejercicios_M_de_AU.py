@@ -182,3 +182,10 @@ print(numeros[6])
 
 print("El 95 está en la posición:", 2)
 print("El 67 está en la posición:", 6)
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
