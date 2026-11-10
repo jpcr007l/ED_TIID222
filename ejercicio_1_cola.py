@@ -63,3 +63,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
