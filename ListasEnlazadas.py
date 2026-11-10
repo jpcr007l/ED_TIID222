@@ -152,3 +152,10 @@ Mi_lista.Eliminar_Nodo_al_Final()
 # Mostrar la lista después de eliminar al final
 print("\nDespues de eliminar el nodo al final:")
 Mi_lista.imprimir_ListaEnlazada()
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
