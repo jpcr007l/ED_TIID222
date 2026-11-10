@@ -106,3 +106,10 @@ for i in range(len(arreglo)):
 print("Arreglo final:", arreglo)
 
 
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
+
+
