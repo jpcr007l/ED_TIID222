@@ -82,3 +82,10 @@ print("Pila después de insertar:", pila)
 ultimo = pila.pop()
 print("Elemento retirado:", ultimo)
 print("Pila actual:", pila)
+
+
+# ==================================================
+# Autor: Perez Juarez Javier Antonio
+# Actividad: Nombre_del_archivo.py
+# Descripción: Desarrollo de la actividad correspondiente.
+# ==================================================
